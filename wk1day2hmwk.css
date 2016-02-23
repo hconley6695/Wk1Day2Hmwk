@@ -1,0 +1,59 @@
+.nav a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color:green;
+}
+ul.menu {
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+  background-color: AntiqueWhite;
+  text-align: center;
+}
+ li.menu1 {
+  display: inline;
+  padding: 15px;
+}
+img {
+  img-align: center;
+}
+
+body {
+  font-family: Sans-serif;
+  background-color: AntiqueWhite;
+}
+
+h1 {
+  color:green;
+  text-align: center;
+}
+p {
+  color:DarkGoldenRod;
+  font-size:24px;
+  text-align:center;
+}
+em.description {
+  color:black;
+  font-size:14px;
+}
+h2 {
+  color:green;
+  text-transform: uppercase;
+}
+h3 {
+  color:DarkGoldenRod;
+  margin: 15px;
+}
+ul.napa {
+  color:green;
+  margin: 30px; 
+}
+
+ul.sonoma {
+  color:green;
+  margin: 30px;
+}
+ul.wheels {
+  color:green;
+  margin: 30px;
+}
